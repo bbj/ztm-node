@@ -1,0 +1,7 @@
+{
+    "type": "node",
+    "request": "launch",
+    "name": "App",
+    "program": "${workspaceRoot}/index.js",
+    "runtimeExecutable": "/Users/bbj/.nvm/versions/node/v14.17.4/bin/node"
+}
