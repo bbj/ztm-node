@@ -12,6 +12,8 @@ module.exports = {
   read: response.read,
 }
 
+//test git
+
 //a more modern but not easy to read version (less explicit, could be confusing)
 //which is totally equivalent
 // module.exports = {
