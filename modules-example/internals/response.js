@@ -6,7 +6,7 @@ function read() {
   return decrypt('data');
 }
 
-module.exports = {
-  // export {
+module.exports = { //ECMAScript module
+  //export {         //CommonJS module
   read,
 }
