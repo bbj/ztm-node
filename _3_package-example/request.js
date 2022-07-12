@@ -8,5 +8,5 @@ axios.get('http://www.google.com')
     console.log(`axios error: ${error.message}`);
   })
   .then(() => {
-    console.log('All done');
+    console.log('All done Yo!');
   });
